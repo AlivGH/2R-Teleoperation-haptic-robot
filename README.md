@@ -6,7 +6,7 @@ Welcome to my GitHub repository!🚀  Currently available haptic/teleoperation f
 
 In this project, Basic electrical and mechanical aspects (design, analysis, and manufacturing) are reviewed. However, if you are exploring additional information, you can refer to my paper titled “Cost-effective Haptic Teleoperation Framework: Design and Implementation”.
 
-
+https://www.researchgate.net/publication/377825397_Cost-effective_Haptic_Teleoperation_Framework_Design_and_Implementation
 
 
 
